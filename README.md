@@ -1,1 +1,1 @@
-# awesome-gen-agents-security
+## 🔐 Agent Hardening (Security for GenAI Agents)
